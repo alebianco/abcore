@@ -1,6 +1,6 @@
-# Contributing to Macrobot
+# Contributing to ABCore
 
-♥ [ADCore](https://github.com/alebianco/abcore) and want to get involved?
+♥ [ABCore](https://github.com/alebianco/abcore) and want to get involved?
 Thanks! There are plenty of ways you can help!
 
 
@@ -66,11 +66,11 @@ project:
 
    ```bash
    # Clones your fork of the repo into the current directory in terminal
-   git clone https://github.com/<your-username>/robotlegs-utilities-macrobot.git
+   git clone https://github.com/<your-username>/abcore.git
    # Navigate to the newly cloned directory
-   cd robotlegs-utilities-macrobot
+   cd abcore
    # Assigns the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/alebianco/robotlegs-utilities-macrobot.git
+   git remote add upstream https://github.com/alebianco/abcore.git
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:
