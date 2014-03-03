@@ -103,7 +103,7 @@
         </zip>
         <copy file="LICENSE.md" tofile="${dist.dir}/license.txt" overwrite="true"/>
         <copy file="CHANGELOG.md" tofile="${dist.dir}/changelog.txt" overwrite="true"/>
-        <zip destfile="${dist.dir}/${project.name.versioned}_${touch.time}.zip">
+        <zip destfile="${project.name.versioned}_${touch.time}.zip">
             <fileset dir="${dist.dir}"/>
         </zip>
         <delete file="${dist.dir}/${project.name.versioned}.swc"/>
