@@ -29,7 +29,7 @@
 	</fx:Script>
 
     <s:Label
-            text="Macrobot runner"
+            text="ABCore runner"
             horizontalCenter="0"
             verticalCenter="0"
             />
