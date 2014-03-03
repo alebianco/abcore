@@ -73,7 +73,7 @@
             <arg line="-external-library-path+=${lib.dir}"/>
             <arg line="-doc-sources+=${main.src.dir}"/>
             <arg line="-source-path+=${main.src.dir}"/>
-            <arg line="-library-path+=libs\air"/>
+            <arg line="-library-path+=libs/air"/>
             <arg line="-output ${doc.dir}"/>
             <arg value="-keep-xml=true"/>
             <arg value="-lenient=true"/>
