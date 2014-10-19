@@ -2,8 +2,11 @@
 
 [![Build Status](https://travis-ci.org/alebianco/abcore.svg?branch=master)](https://travis-ci.org/alebianco/abcore)
 
-
 An ActionScript Library that contains a number of classes and utilities for working with ActionScript 3 and AIR
+
+# Releases
+
+You'll find new versions of the extension in the [Releases page](https://github.com/alebianco/abcore/releases) of the repository.
 
 ## Building
 
