@@ -1,0 +1,10 @@
+/*
+ * Project: abcore
+ *
+ * Author:  Alessandro Bianco
+ * Website: http://alessandrobianco.eu
+ * Twitter: @alebianco
+ * Created: 19/10/2014 9.27
+ */
+
+rootProject.name = 'abcore'
